@@ -26,4 +26,8 @@ private:
 
 	// Add your object here
 
+	std::string mouseString;
+
+	sf::Font font;
+	sf::Text text;
 };
